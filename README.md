@@ -1,7 +1,6 @@
 # Broaden Billing
 
-
-Grab Billing é um modulo que atenderá algumas necessidades especiais em que o whmcs não possui.
+Broaden Billing é um modulo que atenderá algumas necessidades especiais em que o whmcs não possui.
 
 Com ele você poderá:
 
