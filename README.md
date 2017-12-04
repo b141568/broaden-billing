@@ -3,8 +3,7 @@
 <h1>O que é a Broaden Billing</h1>
 <p>É um modulo para whmcs perfeito para necessidades financeiras em que o whmcs não da suporte!</p>
 
-
-<span style="font-weight: bold">O que a Broaden Billing pode fazer:</span><br>
+<h2>O que a Broaden Billing pode fazer:<h2><br>
 
 <span style="font-weight: bold">1 - </span> Todos os dias, o sistema poderá cancela as faturas com vencimento super atrasados e serviços  cancelado.<p>
 No momento que você ou sistema cancela um serviço, a fatura continua aberta.
