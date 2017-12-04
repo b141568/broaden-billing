@@ -57,9 +57,6 @@ $pdo = Capsule::connection()->getPdo();
 
                     } catch (\Exception $e) {
                         echo "Erro ao atualizar faturas. {$e->getMessage()}";
-
-                                    mail("contato@maximalhost.com", "Oi5 tudo bem?", "Mensagem de teste");
-
                         }
                 }
         
