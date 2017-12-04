@@ -11,7 +11,7 @@ function broadenbilling_config() {
     return array(
     "name" => "Broaden Billing",
     "description" => "Addons adicionais para finanças | Suporte: brunowebmaster@live.com",
-    "version" => "1.00",
+    "version" => "0.70",
     "author" => "Bruno Webmaster"
      );
     
