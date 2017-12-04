@@ -41,7 +41,7 @@ $pdo = Capsule::connection()->getPdo();
 //       
             // pega o status do produto
          $requestDataprod = Capsule::table('tblhosting')->select('domainstatus')->where('id', $listinvoiceitem->relid)->first();
-                if($requestDataprod->domainstatus=='Cancelled'){ // se o status for cancelado, ele cancela a fatura.
+                if($requestDataprod->domainstatus=='Cancelled' or $requestDataprod->domainstatus=='Terminated'){ // se o status for cancelado, ele cancela a fatura.
                    //Funcao cancela fatura
                         try {
                         $updateinvoice = Capsule::table('tblinvoices')
