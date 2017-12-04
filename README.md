@@ -18,3 +18,6 @@ Dê a oportunidade do seu afiliado criar cupons de desconto para atrair mais cli
 
 <br>
 <br><br>
+#Testado no WHMCS 7 | PHP5.6 e PHP7.2
+
+Hook desenvolvido por Bruno Webmaster | Contato: brunowebmaster@live.com
