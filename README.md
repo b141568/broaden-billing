@@ -5,8 +5,8 @@
 <br>
 <span style="font-weight: bold">O que a Broaden Billing pode fazer:</span><p>
 <span style="font-weight: bold">1 - </span> Todos os dias, o sistema poderá cancela as faturas com vencimento super atrasados e serviços  cancelado.
-No momento que você ou sistema cancela um serviço, a fatura continua aberta.
-Com este modulo, caso o sistema encontre faturas com vencimento acima de x dias(predefinido) e o serviço já tiver sido cancelado, ele cancelará automaticamente a fatura com vencimento excedido e serviço já cancelado!
+<p>No momento que você ou sistema cancela um serviço, a fatura continua aberta.
+<p>Com este modulo, caso o sistema encontre faturas com vencimento acima de x dias(predefinido) e o serviço já tiver sido cancelado, ele cancelará automaticamente a fatura com vencimento excedido e serviço já cancelado!
 
 <p><p>
 <span style="font-weight: bold">2 - </span>
