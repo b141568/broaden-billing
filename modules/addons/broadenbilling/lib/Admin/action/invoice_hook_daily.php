@@ -1,6 +1,8 @@
 <?php
-$caminho=realpath($_SERVER["DOCUMENT_ROOT"]);
-require("$caminho/modules/addons/broadenbilling/lib/Admin/funcao/invoice_hook_daily.php");
+
+
+require_once(__DIR__ . '/../funcao/invoice_hook_daily.php');
+
 
 
 //Checar se existe post
